@@ -17,13 +17,17 @@
 
 ## 🛠️ Technologies & Tools
 
-### Languages
+### Machine Learning
 
-[![Languages Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![ML Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
 
 ### Cloud
 
-[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,linux,githubactions,jenkins)](https://skillicons.dev)
+[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,docker,linux,githubactions,jenkins)](https://skillicons.dev)
+
+### Databases & Messaging
+
+[![Database Skills](https://skillicons.dev/icons?i=kafka,postgres)](https://skillicons.dev)
 
 ### Frontend
 
@@ -33,17 +37,9 @@
 
 [![Backend Skills](https://skillicons.dev/icons?i=fastapi,python)](https://skillicons.dev)
 
-### Databases & Messaging
-
-[![Database Skills](https://skillicons.dev/icons?i=kafka,postgres)](https://skillicons.dev)
-
-### Machine Learning
-
-[![ML Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-
 ### Other Tools
 
-[![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,grafana,prometheus,bash)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=python,vscode,git,grafana,prometheus,bash,wordpress)](https://skillicons.dev)
 
 ## 📫 Get in Touch
 
