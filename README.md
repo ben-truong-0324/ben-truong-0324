@@ -27,7 +27,7 @@
 
 ### Frontend
 
-[![Frontend Skills](https://skillicons.dev/icons?i=react,figma,D3,css,html)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,figma,d3,css,html)](https://skillicons.dev)
 
 ### Backend
 
