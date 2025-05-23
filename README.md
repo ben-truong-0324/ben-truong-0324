@@ -2,13 +2,17 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-truong-0324&show_icons=true&theme=radical)
 
-> "The angels are lost in perpetual comtemplation of an infinite glory." -_Viktor E Frankl_
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ben-truong-0324&show_icons=true&theme=radical&hide_border=true" /> 
+
+<img src="https://media.giphy.com/media/KyCKg4Z3rmyrXMUNuk/source.gif" width="40">
+<img align="right" width="200"> <p><em>Engineer building smarter software with GenAI & cloud, and on a mission to learn endlessly ☁️🧠</em></p>
+
 
 ## 🔭 Current Priorities
 
-- Building out my GenAI skillset & portfolio 🚀
-- Working towards certifications: SAA-C03, Sec+
-- Exiting OMSCS
+- Expanding my Generative AI portfolio 🚀
+- Pursuing certifications: AWS SAA-C03, NVIDIA LLM, CompTIA Security+
+- Wrapping up my journey in Georgia Tech’s OMSCS program 🎓
 
 ## 🚀 Hobby Projects
 
@@ -17,29 +21,7 @@
 
 ## 🛠️ Technologies & Tools
 
-### Machine Learning
-
-[![ML Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
-
-### Cloud
-
-[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,docker,linux,githubactions,jenkins)](https://skillicons.dev)
-
-### Databases & Messaging
-
-[![Database Skills](https://skillicons.dev/icons?i=kafka,postgres)](https://skillicons.dev)
-
-### Frontend
-
-[![Frontend Skills](https://skillicons.dev/icons?i=react,figma,d3,css,html)](https://skillicons.dev)
-
-### Backend
-
-[![Backend Skills](https://skillicons.dev/icons?i=fastapi,python)](https://skillicons.dev)
-
-### Other Tools
-
-[![Other Skills](https://skillicons.dev/icons?i=python,vscode,git,grafana,prometheus,bash,wordpress)](https://skillicons.dev)
+<div style="display: flex; overflow-x: auto; white-space: nowrap;"> <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" /> </div>
 
 ## 📫 Get in Touch
 
