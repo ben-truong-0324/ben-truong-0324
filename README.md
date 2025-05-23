@@ -2,10 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-truong-0324&show_icons=true&theme=radical)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ben-truong-0324&show_icons=true&theme=radical&hide_border=true" /> 
-
-<img src="https://media.giphy.com/media/KyCKg4Z3rmyrXMUNuk/source.gif" width="40">
-<img align="right" width="200"> <p><em>Engineer building smarter software with GenAI & cloud, and on a mission to learn endlessly ☁️🧠</em></p>
+<p><em>I'm a GenAI consultant focused on architecting and deploying ML and LLM-based solutions for SMBs and enterprises. I specialize in automating workflows, optimizing capacity planning, and accelerating decision-making—delivering measurable outcomes such as cost reduction, time-to-value compression, and operational scalability.☁️🧠</em></p>
 
 
 ## 🔭 Current Priorities
