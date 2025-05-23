@@ -2,7 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-truong-0324&show_icons=true&theme=radical)
 
-<p>I'm a <strong>GenAI Engineer</strong> focused on architecting and deploying <strong>ML</strong> and <strong>LLM-based solutions</strong> for <strong>SMBs</strong> and <strong>enterprises</strong>. I specialize in <strong>workflow automation</strong>, <strong>capacity planning optimization</strong>, and building <strong>single-source-of-truth systems</strong>—all guided by <strong>Six Sigma</strong> efficiency principles and <strong>Lean Startup</strong> experimentation. My work drives measurable outcomes including <strong>cost reduction</strong>, <strong>time-to-value compression</strong>, and <strong>operational scalability</strong>. ☁️🧠</p>
+<p>I'm a <strong>GenAI Engineer</strong> focused on architecting and deploying <strong>ML</strong> and <strong>LLM-based solutions</strong> for <strong>SMBs</strong> and <strong>enterprises</strong>. I specialize in <strong>workflow automation</strong>, <strong>capacity planning optimization</strong>, and building <strong>single-source-of-truth systems</strong>—all guided by <strong>Six Sigma</strong> principles and <strong>Lean Startup</strong> methodology.<break>My work drives measurable outcomes including <strong>cost reduction</strong>, <strong>time-to-value compression</strong>, and <strong>operational scalability</strong>. ☁️🧠</p>
 
 
 ## 🔭 Current Priorities
